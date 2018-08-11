@@ -10,3 +10,5 @@ prompt>python Sakusaku_VocabularyTest.py -h
          -c Select number
          
 ex] python Sakusaku_VocabularyTest.py -s VocabularyBook/VocabularyBook_nm000100.csv -c 10
+or
+Double click "SakusakuEnglishTest.bat".
