@@ -1,6 +1,7 @@
 SakusakuVocabularyTest
 
 prompt>python Sakusaku_VocabularyTest.py -h
+
        usage: Sakusaku_VocabularyTest.py [-h] [-s Select csv-file] [-c Select number]
 
        optional arguments:
